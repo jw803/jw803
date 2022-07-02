@@ -12,11 +12,6 @@
 </p>
 
 ---
-
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=jw803&label=Visitors&color=0e75b6&style=flat"/>
-</p>
-
 <div align="center">
   <a href="https://www.github.com/jw803" target="blank">
     <img width=35% src="https://github-readme-stats.vercel.app/api/top-langs/?username=jw803&layout=compact&include_all_commits=true&count_private=true&title_color=FFFFFF&text_color=FFFFFF&hide_border=true&border_radius=15&icon_color=FFFFFF&bg_color=FFFFFF,23272D,243949">
